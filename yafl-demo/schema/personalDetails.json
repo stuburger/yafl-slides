@@ -1,0 +1,16 @@
+{
+  "personalDetails": {
+    "firstName": "Munk",
+    "lastName": "Jones",
+    "contactDetails": {
+      "tel": "07999898171",
+      "email": "sweet.potatoes@trint.com",
+      "addressDetails": {
+        "streetNo": "17",
+        "streetName": "Shelly Road",
+        "city": "Cape Town",
+        "country": "South Africa"
+      }
+    }
+  }
+}
